@@ -8,7 +8,14 @@ Develop a comprehensive specification document for the project.
 - Document findings in markdown files, including pros and cons of different approaches.
 
 ## Project Overview
-- Elaborate on the project goal, providing context and background.
+- Project goal: Build a Service as a Service Application that will provide small and medium enterprises up to 1000 employees with a multi agent application that will allow them to cover all domains of the NIST CSF 2.0 framework.
+
+The service as a service will recommend 
+
+
+
+
+ providing context and background.
 - Describe the target audience and their needs, including demographics and user personas.
 
 ## Functional Requirements
